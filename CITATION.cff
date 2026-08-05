@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "Please cite the associated journal article when using this research code."
+title: "Research code for machine-learning-driven design of labyrinthine ventilated sound absorbers"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Yan
+    given-names: Longhui
+preferred-citation:
+  type: article
+  title: "Design of labyrinthine ventilated sound absorption structures driven by machine learning"
+  authors:
+    - family-names: Li
+      given-names: Weike
+    - family-names: Yan
+      given-names: Longhui
+    - family-names: Lin
+      given-names: Jianhua
+      orcid: "https://orcid.org/0009-0005-0503-2479"
+    - family-names: Yang
+      given-names: Tao
+    - family-names: Bi
+      given-names: Rengui
+      orcid: "https://orcid.org/0000-0002-1505-3872"
+    - family-names: Xia
+      given-names: Baizhan
+      orcid: "https://orcid.org/0000-0001-7897-1454"
+  journal: Smart Materials and Structures
+  volume: "35"
+  issue: "4"
+  start: "045035"
+  year: 2026
+  doi: 10.1088/1361-665X/ae5b03
+  url: "https://doi.org/10.1088/1361-665X/ae5b03"
