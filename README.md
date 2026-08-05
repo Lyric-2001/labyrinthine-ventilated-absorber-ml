@@ -146,9 +146,6 @@ GitHub can read [CITATION.cff](CITATION.cff) directly. A BibTeX record is also p
 }
 ```
 
-## License
-
-No open-source license has been granted yet. The current [LICENSE](LICENSE) reserves all rights while code ownership and co-author/institutional permissions are confirmed. Replace it with an approved open-source license before inviting reuse or contributions.
 
 ## Repository Setup
 
