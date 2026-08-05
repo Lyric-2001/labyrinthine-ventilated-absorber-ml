@@ -11,7 +11,7 @@ Research code, sample data, trained checkpoints, and validation results for the 
 
 > W. Li, L. Yan, J. Lin, T. Yang, R. Bi, and B. Xia, "Design of labyrinthine ventilated sound absorption structures driven by machine learning," *Smart Materials and Structures*, vol. 35, no. 4, 045035, 2026. https://doi.org/10.1088/1361-665X/ae5b03
 
-The repository was assembled from the master's thesis research of Longhui Yan at Hunan University. It covers theoretical impedance modeling, parameter sampling and sensitivity analysis, forward surrogate models, function-driven and geometry-driven inverse networks, and particle swarm optimization (PSO). It is a curated research archive with partial reproducibility; the full FEM-to-training workflow still requires external data and licensed COMSOL software.
+This database was created and organized by Li Weike and Yan Longhui. It covers theoretical impedance modeling, parameter sampling and sensitivity analysis, forward surrogate models, function-driven and geometry-driven inverse networks, and particle swarm optimization (PSO). It is a curated research archive with partial reproducibility; the full FEM-to-training workflow still requires external data and licensed COMSOL software.
 
 ![Functional design network validation](results/figures/functional_network/functional-network-validation-grid.png)
 
